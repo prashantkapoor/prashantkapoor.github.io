@@ -4,6 +4,7 @@ description: 'Place where I write it down for you, till eternity'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 email: 'prashantkapoor21@gmail.com'
+baseurl: 'https://prashantkapoor.github.io'
 
 include: ["_pages"]
 permalink: /:title/
